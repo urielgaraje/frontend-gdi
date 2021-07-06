@@ -27,6 +27,7 @@ Los usuarios deben ser capaces de:
 - Filtrar las tareas por todas/activas/completadas
 - Limpiar de la lista todas las tareas completadas
 - Intercambiar entre modo "claro" y "oscuro"
+- Persistir los cambios utilizando el "local storage"
 - **Bonus**: Implementar la funcionalidad "Drag and drop" o "arrastrar y soltar" para reordenar las tareas de las listas
 
 ## Assets
