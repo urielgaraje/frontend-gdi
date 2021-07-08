@@ -38,6 +38,6 @@ Todas las imagenes necesarias para esta app se encuentran en la carpeta `/img`.
 
 El desarrollo de esta prueba debe estar subido a un repositorio git. Junto a los archivos debes incluir uno llamado `README.md` donde nos detalles comentarios sobre como resolviste los requerimientos y los comandos probar la aplicación en caso de utilizar algun framework o CLI. El link del repositorio debes enviarlo por mail a:
 
-Mail: uriel.blanco@garajedeideas.com
+Mail: maria.patino@garajedeideas.com
 
 Asunto: Prueba técnica frontend - [Nombre y apellido]
