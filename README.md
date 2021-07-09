@@ -6,7 +6,7 @@
 
 El objetivo de esta prueba es desarrollar un todo app! Basicamente consiste en un listado de tareas las cuales iras cargando como pendientes y marcandolas a medida que uno las vaya completando.
 
-Para programar esta app puedes utilizar el framework JavaScript que prefieras (Angular, Vue, React, LitElement, Svelte, etc...) o simplemente vanilla js. El fuerte de esta app se centra en sus funcionalidades, el diseño ya viene proporcionado aunque se puede modificar todo al gusto de cada uno. Hecharle un ojo a la clase ".todo__elem--checked" ;)
+Para programar esta app puedes utilizar el framework JavaScript que prefieras (Angular, Vue, React, LitElement, Svelte, etc...) o simplemente vanilla js. El fuerte de esta app se centra en sus funcionalidades, el diseño ya viene proporcionado aunque se puede modificar todo al gusto de cada uno. Echarle un ojo a la clase ".todo__elem--checked" ;)
 
 ## Estructura de la prueba
 
